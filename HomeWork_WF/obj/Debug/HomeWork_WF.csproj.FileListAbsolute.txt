@@ -1,0 +1,11 @@
+E:\Projects\IT\University Tasks\Graphics\HomeWork_WF\HomeWork_WF\bin\Debug\HomeWork_WF.exe.config
+E:\Projects\IT\University Tasks\Graphics\HomeWork_WF\HomeWork_WF\bin\Debug\HomeWork_WF.pdb
+E:\Projects\IT\University Tasks\Graphics\HomeWork_WF\HomeWork_WF\obj\Debug\HomeWork_WF.csproj.AssemblyReference.cache
+E:\Projects\IT\University Tasks\Graphics\HomeWork_WF\HomeWork_WF\obj\Debug\HomeWork_WF.Properties.Resources.resources
+E:\Projects\IT\University Tasks\Graphics\HomeWork_WF\HomeWork_WF\obj\Debug\HomeWork_WF.csproj.GenerateResource.cache
+E:\Projects\IT\University Tasks\Graphics\HomeWork_WF\HomeWork_WF\obj\Debug\HomeWork_WF.csproj.CoreCompileInputs.cache
+E:\Projects\IT\University Tasks\Graphics\HomeWork_WF\HomeWork_WF\obj\Debug\HomeWork_WF.exe
+E:\Projects\IT\University Tasks\Graphics\HomeWork_WF\HomeWork_WF\obj\Debug\HomeWork_WF.pdb
+E:\Projects\IT\University Tasks\Graphics\HomeWork_WF\HomeWork_WF\obj\Debug\HomeWork_WF.Form1.resources
+E:\Projects\IT\University Tasks\Graphics\HomeWork_WF\HomeWork_WF\obj\Debug\HomeWork_WF.HistogramControl.resources
+E:\Projects\IT\University Tasks\Graphics\HomeWork_WF\HomeWork_WF\bin\Debug\HomeWork_WF.exe
